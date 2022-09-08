@@ -1,0 +1,21 @@
+div{
+    border: 1px solid blue;
+    box-shadow: 5px 5px green;
+    background-color: bisque;
+      }
+
+
+
+h1,h2{
+    font-style: italic;
+}
+
+img{
+    border-radius: 50px;
+}
+
+li{
+    margin: 10px;
+    font-style: italic;
+}
+
